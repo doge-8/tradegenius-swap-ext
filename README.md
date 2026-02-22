@@ -1,6 +1,7 @@
 # TG Auto Swap - Chrome Extension
 
 TradeGenius 自动兑换工具，支持任意已保存币种之间的自动交替兑换。
+
 本工具为chrome插件，请使用官方版本chrome浏览器使用，无安全隐患！
 
 **当前版本**: v3.0
