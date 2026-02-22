@@ -109,7 +109,7 @@ A: 检查钱包余额和 Gas 费是否充足，尝试调大滑点阈值。
 
 本工具制作不易，如果对您有帮助，欢迎使用邀请码注册支持作者！
 
-**反佣邀请码**: [tradegenius.com/ref/MO2GAW](https://www.tradegenius.com/ref/MO2GAW)
+**合作邀请码**: [tradegenius.com/ref/MO2GAW](https://www.tradegenius.com/ref/MO2GAW)
 
 ## 联系方式
 
