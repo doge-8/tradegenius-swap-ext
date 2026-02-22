@@ -104,5 +104,4 @@ A: 检查钱包余额和 Gas 费是否充足，尝试调大滑点阈值。
 
 - **作者**: 岳来岳会赚
 - **X (Twitter)**: [@188888_x](https://x.com/188888_x)
-- **Telegram**: [@tg_188888_x](https://t.me/tg_188888_x)
-- **Discord**: [discord.gg/m9A8tF9Y3G](https://discord.gg/m9A8tF9Y3G)
+- **Telegram**: [@tg_188888_x](https://t.me/+ILxE5DrnpHA2OWRl)
